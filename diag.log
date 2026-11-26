@@ -1,0 +1,26 @@
+VERSION = '3.0.5'
+time = '2026-11-26 09:58:10'
+sys.platform = 'win32'
+sys.executable = 'C:\\Users\\PC20261011\\AppData\\Local\\Programs\\Python\\Python311\\python.exe'
+sys.version = '3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]'
+cwd = 'E:\\HCXX-SJ\\inovance_servo_tool\\3.0.5'
+RES_DIR = 'E:\\HCXX-SJ\\inovance_servo_tool\\3.0.5'
+WORK_DIR = 'E:\\HCXX-SJ\\inovance_servo_tool\\3.0.5'
+env.FLET_PLATFORM = None
+page.attr.platform(raw) = 'windows'
+page.attr.web(raw) = 'false'
+page.web = False
+page.platform.enum = "'windows'"
+platform_exc = None
+_platform_name = 'windows'
+_is_web = False
+_is_desktop = True
+_is_mobile = False
+res:cover.jpg = 'exists=True size=591685'
+res:brand_logo.png = 'exists=True size=12151'
+res:fault_icon.png = 'exists=True size=30898'
+res:select_icon.png = 'exists=True size=30983'
+res:repl_icon.png = 'exists=True size=37519'
+res:logo.png = 'exists=True size=250926'
+res:servo_data.xlsx = 'exists=True size=156474'
+res:fault_db.json = 'exists=True size=1307017'
